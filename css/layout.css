@@ -1015,7 +1015,7 @@ fieldset[disabled] .btn-theme {
 .carousel-title {
   font-size: 80px;
   font-weight: 700;
-  color: #fff;
+  color:#ff0000;
   line-height: 1.1;
   text-transform: uppercase;
 }
@@ -1116,7 +1116,9 @@ fieldset[disabled] .btn-theme {
 .bg-color-sky-light {
   background: #fafafa !important;
 }
-
+.carousel-title {
+  color: #515769; /* Reemplaza #ff0000 con el código de color que desees */
+}
 /*------------------------------------------------------------------
     [Row]
 ------------------------------------------------------------------*/
